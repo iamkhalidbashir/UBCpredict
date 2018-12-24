@@ -29,6 +29,10 @@ This script is used to prredict a model created by (create_model.py). Some model
 
 This script could be used to create your own models and contriute towards this repository.
 
+### Classifier comparison (algo_comparision.py)
+
+As described in the paper, 4 algorithms were compared out of which best one was used as a default model in the (predict.py) file. This script runs a comparision test and prints out the metrics for evaluation of various classifiers.
+
 ### Reference paper
 
 The following paper was used in creation of this repository
