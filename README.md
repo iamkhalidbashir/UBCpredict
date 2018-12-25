@@ -11,7 +11,7 @@ Simple steps to get it to work!
   - See the magic!
 
 ### Prediction (predict.py)
-This script is used to prredict a model created by (create_model.py). Some models are already created by the work done in the paper referenced at the bottom. Create a csv file have 12 features per column (see example in test_dataset.csv). The features are explained below:-
+This script is used to predict a model created by (create_model.py). Some models are already created by the work done in the paper referenced at the bottom. Create a csv file have 12 features per column (see example in test_dataset.csv). The features are explained below:-
   - Age recode (value from 1-18: 1 = 1-4 years old, 2 = 5-9 years old,.., 18 = 85+ years old)
   - Sex (1 = male: 0 = female)
   - Year of diagnosis (actuall year, for years greater than 2015, just use 2015 instead)
